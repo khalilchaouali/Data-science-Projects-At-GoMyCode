@@ -10,4 +10,6 @@ The research paper consider using a machine learning model for predicting heat c
 To summarize, this machine learning model is very simple and does only require chemical formula as an input. Using CBFV package or "composition-based feature vectors" which require the chemical formula as input and based on the formula, the outputs will be 177 features representing the thermochemical/thermophysical properties.
  
 This is a simple reproducing of some of the models used in the research paper.
-this work it's an application of the analysis and machine learning techniques to help solve chemical issues which is the field of my student khalil maaouia who tried to apply what he learn in his field ,he taught me a lot from his questions during the session thanks khalil  maaouia.whish you all the best on your future career.
+
+
+This work it's an application of the analysis and machine learning techniques to help solve chemical issues which is the field of my student khalil maaouia who tried to apply what he learn in his field ,he taught me a lot from his questions during the session thanks khalil  maaouia.whish you all the best on your future career.
