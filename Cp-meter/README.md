@@ -12,4 +12,4 @@ To summarize, this machine learning model is very simple and does only require c
 This is a simple reproducing of some of the models used in the research paper.
 
 
-This work it's an application of the analysis and machine learning techniques to help solve chemical issues which is the field of my student khalil maaouia who tried to apply what he learn in his field ,he taught me a lot from his questions during the session thanks khalil  maaouia.whish you all the best on your future career.
+This work it's an application of the analysis and machine learning techniques to help solve chemical issues which is the field of my student khalil maaouia who tried to apply what he learned in his field ,he taught me a lot from his questions during the session thanks khalil  maaouia.whish you all the best on your future career.
